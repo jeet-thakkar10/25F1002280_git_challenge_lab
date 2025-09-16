@@ -2,7 +2,7 @@ def Addition(a,b):
     return(a+b)
 
 def Sub(a,b):
-    return()
+    return(a-b)
 
 def multiply(a,b):
     return()
